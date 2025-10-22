@@ -1,0 +1,137 @@
+# Privacy Policy
+
+**Last Updated:** October 22, 2025
+
+## Introduction
+
+This Privacy Policy describes how we collect, use, and protect your information when you use our educational learning application (the "App"). We are committed to protecting your privacy and ensuring transparency about our data practices.
+
+## Information We Collect
+
+### Personal Information
+When you use our App, we collect the following information:
+
+- **Email Address:** Collected through Google Single Sign-On (SSO) authentication
+- **Name:** Collected through Google Single Sign-On (SSO) authentication
+
+### User-Generated Content
+The App processes the following types of content you provide:
+
+- **Educational Content:** Text, images, or PDF files containing chapter content you wish to learn
+- **Voice Responses:** Verbal answers you provide to questions (processed but not stored permanently)
+- **Text Responses:** Written answers to assessment questions
+- **Chat History:** Records of your interactions with the App, including explanations and Q&A sessions
+- **Feedback Data:** Likes, dislikes, and suggestions you provide about the App's responses
+
+### Usage Information
+- **App Preferences:** Your selected explanation level (brief, standard, or detailed) and language preferences
+- **Interaction Data:** Records of how you use the App's features
+
+## How We Use Your Information
+
+We use the collected information for the following purposes:
+
+- **Authentication:** To verify your identity and provide secure access to the App
+- **Personalization:** To maintain your chat history and provide a personalized learning experience
+- **Content Processing:** To analyze your educational materials and generate appropriate explanations, examples, and stories
+- **Assessment:** To evaluate your answers and provide feedback
+- **Text-to-Speech:** To convert written responses into audio format in your selected language
+- **Service Improvement:** To understand user feedback and improve the App's educational content and features
+- **Account Management:** To maintain your user profile and preferences
+
+## Data Storage and Security
+
+- **Chat History:** Your conversations are stored securely and associated with your account to enable access through the drawer/sidebar menu
+- **Security Measures:** We implement industry-standard security measures to protect your personal information from unauthorized access, disclosure, or destruction
+- **Voice Data:** Verbal responses are processed for evaluation but are not permanently stored
+
+## Third-Party Services
+
+### Google Sign-In
+We use Google Single Sign-On for authentication. By signing in with Google, you agree to Google's privacy policy and terms of service. We only receive your email address and name from Google.
+
+### Text-to-Speech Services
+The App uses text-to-speech technology to read responses aloud. This processing may be performed by third-party services, but no personal information is shared beyond the text content being converted to speech.
+
+## Data Sharing and Disclosure
+
+We do not sell, trade, or rent your personal information to third parties. We may share information only in the following circumstances:
+
+- **With Your Consent:** When you explicitly agree to share information
+- **Legal Requirements:** When required by law, court order, or government regulation
+- **Service Protection:** To protect the rights, property, or safety of our App, users, or others
+
+## Your Rights and Choices
+
+You have the following rights regarding your data:
+
+- **Access:** View your chat history through the App's drawer/sidebar
+- **Deletion:** Request deletion of your account and associated data by contacting us
+- **Data Portability:** Request a copy of your data in a portable format
+- **Opt-Out:** Stop using the App at any time, which will cease data collection
+- **Feedback Control:** Choose whether to provide feedback on responses
+
+## Children's Privacy
+
+Our App is designed for educational purposes and may be used by students. We comply with applicable children's privacy laws, including COPPA (Children's Online Privacy Protection Act) where applicable. If you are under 13 (or the applicable age in your jurisdiction), please have a parent or guardian review this Privacy Policy and provide consent before using the App.
+
+We do not knowingly collect more information than necessary from users of any age. The only personal information we collect is your name and email address from Google SSO.
+
+## Data Retention
+
+- **Account Data:** Retained as long as your account is active
+- **Chat History:** Retained until you delete specific conversations or your account
+- **Feedback Data:** Retained for service improvement purposes
+- **Deleted Data:** When you delete your account, we will remove your personal information and chat history within 30 days
+
+## International Data Transfers
+
+Your information may be transferred to and processed in countries other than your country of residence. We ensure appropriate safeguards are in place to protect your data in accordance with this Privacy Policy.
+
+## Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time. We will notify you of any material changes by:
+
+- Posting the updated policy in the App
+- Updating the "Last Updated" date at the top of this policy
+- Sending an email notification for significant changes (if applicable)
+
+Your continued use of the App after changes are posted constitutes your acceptance of the updated Privacy Policy.
+
+## Contact Us
+
+If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us at:
+
+**Email:** [Your Contact Email]  
+**Address:** [Your Company Address]  
+
+## Consent
+
+By using our App, you consent to the collection and use of information as described in this Privacy Policy.
+
+---
+
+## Data Processing Summary for Google Play
+
+**Data Collected:**
+- Email address (for authentication and account management)
+- Name (for personalization)
+- User-generated content (educational materials, responses)
+- Chat history (for user access to past interactions)
+- Feedback data (for service improvement)
+
+**Data Usage:**
+- Authentication and account management
+- Providing personalized educational content
+- Maintaining chat history for user reference
+- Service improvement based on feedback
+
+**Data Sharing:**
+- No data is sold to third parties
+- Google SSO provider receives authentication requests only
+- No personal information is shared with other third parties
+
+**Security:**
+- Industry-standard encryption and security measures
+- Secure storage of user data
+- Regular security audits and updates
