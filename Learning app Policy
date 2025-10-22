@@ -102,8 +102,8 @@ Your continued use of the App after changes are posted constitutes your acceptan
 
 If you have questions, concerns, or requests regarding this Privacy Policy or your personal information, please contact us at:
 
-**Email:** [Your Contact Email]  
-**Address:** [Your Company Address]  
+**Email:** info@warals.com  
+**Address:** Warals Technology  
 
 ## Consent
 
@@ -120,6 +120,7 @@ By using our App, you consent to the collection and use of information as descri
 - Chat history (for user access to past interactions)
 - Feedback data (for service improvement)
 
+
 **Data Usage:**
 - Authentication and account management
 - Providing personalized educational content
@@ -130,8 +131,15 @@ By using our App, you consent to the collection and use of information as descri
 - No data is sold to third parties
 - Google SSO provider receives authentication requests only
 - No personal information is shared with other third parties
+- Voice Responses: Verbal answers are processed in real-time to generate results, but are not stored, shared or used for training nay external models.
 
 **Security:**
 - Industry-standard encryption and security measures
 - Secure storage of user data
 - Regular security audits and updates
+
+**App Permissions:**
+  The app may request access to:
+    - *Microphone* For recording voice responses during learning session.
+    - *Storage* To upload and access educational files (PDFs, images)
+  The permissions  are used only for their respective educational functions and are not used to collect personal data
